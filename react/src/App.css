@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1.main-header {
+  font-size: 6rem;
+  color: yellow;
+}
+
+div.btns {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
